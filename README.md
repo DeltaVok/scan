@@ -51,12 +51,12 @@ L'application est accessible sur [scan.deltavok.com](https://scan.deltavok.com).
 - [x] Vérification SSL/TLS
 - [x] Génération de rapports PDF
 - [x] Explications IA des résultats
-- [ ] Scan planifié et alertes automatiques
-- [ ] Intégration CI/CD (GitHub Actions, GitLab CI)
-- [ ] API publique
+- [x] Scan planifié et alertes automatiques
+- [x] Intégration CI/CD (GitHub Actions, GitLab CI)
+- [x] API publique
 
 ## Contact
 
-- Site : [deltavok.com](https://deltavok.com)
+- Site : [scan.deltavok.com](https://scan.deltavok.com)
 - Email : contact@deltavok.com
 - LinkedIn : [linkedin.com/company/deltavok](https://linkedin.com/company/deltavok)
