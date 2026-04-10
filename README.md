@@ -64,3 +64,4 @@ The platform is available at [scan.deltavok.com](https://scan.deltavok.com).
 - Website: [scan.deltavok.com](https://scan.deltavok.com)
 - Email: contact-scan@deltavok.com
 - LinkedIn: [linkedin.com/company/deltavok](https://linkedin.com/company/deltavok)
+  
